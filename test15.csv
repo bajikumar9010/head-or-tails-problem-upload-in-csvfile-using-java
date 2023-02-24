@@ -1,0 +1,12 @@
+round ,player1 .player2,no.of p1heads,no.ofp1tails,no.ofp2heads,no.ofp2tails
+round0,head ,tail
+round1,tail ,head
+round2,head ,tail
+round3,tail ,head
+round4,tail ,head
+round5,tail ,head
+round6,tail ,head
+round7,head ,tail
+round8,head ,tail
+round9,tail ,head
+	 p1head4 p1tails6 p2head4 p2tails4
